@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Freind" size="5.000000 4.974790" />
+    <ImageTarget name="ThankYouAR3" size="5.000000 3.658537" />
+    <ImageTarget name="ThankYouAE2" size="5.000000 3.658537" />
+    <ImageTarget name="ThankYouAR1" size="5.000000 3.982456" />
+    <ImageTarget name="ChristmasCardTarget" size="5.000000 2.812500" />
+  </Tracking>
+</QCARConfig>
