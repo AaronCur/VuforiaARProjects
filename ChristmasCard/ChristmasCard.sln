@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasCard", "Assembly-CSharp.csproj", "{B9F0AC70-9D75-826E-E16E-6D7DF0BD5043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasCard", "Assembly-CSharp-Editor.csproj", "{ABC3F069-F4BB-A416-AD77-8894E1469141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9F0AC70-9D75-826E-E16E-6D7DF0BD5043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F0AC70-9D75-826E-E16E-6D7DF0BD5043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F0AC70-9D75-826E-E16E-6D7DF0BD5043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F0AC70-9D75-826E-E16E-6D7DF0BD5043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC3F069-F4BB-A416-AD77-8894E1469141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC3F069-F4BB-A416-AD77-8894E1469141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC3F069-F4BB-A416-AD77-8894E1469141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC3F069-F4BB-A416-AD77-8894E1469141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
